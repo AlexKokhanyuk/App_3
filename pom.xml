@@ -30,7 +30,8 @@
                 <version>2.3</version>
                 <configuration>
                     <warName>App1</warName>
-                    <!--<warSourceDirectory>src/main/webapp/app1</warSourceDirectory>-->
+                    <webappDirectory>/var/lib/tomcat8/webapps/App1</webappDirectory>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
             <plugin>
