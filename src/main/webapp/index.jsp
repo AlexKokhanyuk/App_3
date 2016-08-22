@@ -7,7 +7,7 @@
 <body>
 
 <div class="box" align='center'>
-    <p class="text1">My App</p>
+    <p class="text1">My App Three </p>
     <%--<form class="test" action="index.html" method="post">--%>
     <%--<div class="message">--%>
     <%--</div>--%>
